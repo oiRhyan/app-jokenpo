@@ -22,6 +22,11 @@ Para o desenvolvimento desta aplicação foram utilizados recursos nativos da li
 o usúario será responsável por escolher sua opção de jogada enquanto um método assyncrono de randomização ficara responsável por realizar a jogada da CPU. Por fim, estes serão comparados
 e assim será lançado o jogador vencedor.
 
+<div>
+ <img src="jokenpo (1).gif">
+</div>
+
+
 ## Acompanhe o desenvolvimento desta e outras aplicações em
 <p>
   <a href="https://www.linkedin.com/in/rhyan-araujo-chaves/">
